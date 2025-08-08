@@ -1,0 +1,9 @@
+{
+  "url": "https://raw.githubusercontent.com/EvtDanya/swagger-xss/refs/heads/main/swagger_new.yaml",
+  "urls": [
+      {
+          "url": "https://raw.githubusercontent.com/EvtDanya/swagger-xss/refs/heads/main/swagger_new.yaml",
+          "name": "Account"
+      }
+  ]
+}
